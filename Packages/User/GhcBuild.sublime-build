@@ -1,0 +1,13 @@
+{
+  "cmd": ["ghc $file"],  // append lib:myPackage or myexecutable here to only build certain cabal targets
+  "shell": true,
+  "file_regex": "^(\\S*?):(\\d+):(\\d+):$",  // this matches the output of ghc
+  "selector": "source.haskell",
+  "variants": [
+        {   
+            "cmd": ["open ./Main"],
+            "shell": true,
+            "name": "Run"
+        }
+    ]
+}

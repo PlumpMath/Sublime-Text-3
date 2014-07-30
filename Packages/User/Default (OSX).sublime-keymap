@@ -1,0 +1,18 @@
+[
+    { "keys": ["super+shift+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+
+    // Move to end of next line, uses a little script called run_multiple_commands.py (in Sublime's User dir)
+    { "keys": ["super+enter"], "command": "run_multiple_commands", "args": {
+        "commands": [
+            {"command": "move", "args": {"by": "lines", "forward": true} },
+            {"command": "move_to", "args": {"to": "eol", "extend": false}}]
+        }
+    },
+
+    // Haskell
+    { "keys": ["ctrl+super+t"], "context": [ {"key" : "is_haskell_source" } ], "command": "sublime_haskell_insert_type" },
+    { "keys": ["ctrl+t"], "context": [ {"key" : "is_haskell_source" } ], "command": "sublime_haskell_show_type" },
+ 
+    // General
+    { "keys": ["super+."], "command": "goto_definition" }
+]

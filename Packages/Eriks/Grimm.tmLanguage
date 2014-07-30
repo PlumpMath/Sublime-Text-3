@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>dia</string>
+	</array>
+	<key>foldingStartMarker</key>
+	<string>/\*\*|\{\s*$</string>
+	<key>foldingStopMarker</key>
+	<string>\*\*/|^\s*\}</string>
+	<key>name</key>
+	<string>Grimm</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>\b(IF|ELIF|ELSE|GOTO|START|WAIT|ASSERT|STOP|LISTEN|BROADCAST|CANCEL|FOCUS|DEFOCUS|LOOP|BREAK|AND|CHOICE|INTERRUPT|WHEN|ETERNAL)\b</string>
+			<key>name</key>
+			<string>keyword.control.untitled</string>
+		</dict>
+		<dict>
+			<key>begin</key>
+			<string>#</string>
+			<key>end</key>
+			<string>\n</string>
+			<key>name</key>
+			<string>comment</string>
+		</dict>
+		<dict>
+			<key>begin</key>
+			<string>\[</string>
+			<key>end</key>
+			<string>\]</string>
+			<key>name</key>
+			<string>constant</string>
+		</dict>
+		<dict>
+			<key>begin</key>
+			<string>"</string>
+			<key>end</key>
+			<string>"</string>
+			<key>name</key>
+			<string>string.quoted.double.untitled</string>
+			<key>patterns</key>
+			<array>
+				<dict>
+					<key>match</key>
+					<string>\\.</string>
+					<key>name</key>
+					<string>constant.character.escape.untitled</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.untitled</string>
+	<key>uuid</key>
+	<string>90717983-9A65-4F3A-8D3E-4662F916C6F9</string>
+</dict>
+</plist>
