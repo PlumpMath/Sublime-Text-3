@@ -1,6 +1,11 @@
 {
+	"additional_path_items":
+	[
+		"/Users/erik/.cabal/bin",
+		"/Applications/ghc-7.8.2.app/Contents/bin/ghc"
+	],
 	"color_scheme": "Packages/Laravel Color Scheme/Larapaste.tmTheme",
-	"font_size": 19,
+	"font_size": 17,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -8,6 +13,5 @@
 	"show_full_path": true,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	"word_wrap": false,
-	"additional_path_items": ["/Users/erik/.cabal/bin"]
+	"word_wrap": false
 }
