@@ -8,5 +8,6 @@
 	"show_full_path": true,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"additional_path_items": ["/Users/erik/.cabal/bin"]
 }

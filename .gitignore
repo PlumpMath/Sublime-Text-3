@@ -3,3 +3,4 @@
 /Local
 *.cache
 /Packages/SublimeHaskell
+/Backup
