@@ -14,5 +14,5 @@
     { "keys": ["ctrl+t"], "context": [ {"key" : "is_haskell_source" } ], "command": "sublime_haskell_show_type" },
  
     // General
-    { "keys": ["super+."], "command": "goto_definition" }
+    { "keys": ["ctrl+."], "command": "goto_definition" }
 ]

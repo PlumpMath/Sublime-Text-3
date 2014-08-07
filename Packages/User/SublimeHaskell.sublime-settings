@@ -1,8 +1,11 @@
 {
-    "add_to_PATH": ["/Users/erik/.cabal/bin"],
-	"enable_hdevtools": false,
+	"add_to_PATH":
+	[
+		"/Users/erik/.cabal/bin"
+	],
+    "enable_hdevtools": false,
     "enable_auto_build": false,
-    "auto_run_tests": false,
+	"auto_run_tests": false,
     "enable_auto_check": true,
-    "enable_auto_lint": true,
+	"enable_auto_lint": true,	
 }
