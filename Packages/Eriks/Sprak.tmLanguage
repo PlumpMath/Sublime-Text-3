@@ -18,7 +18,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>\b(if|else|loop|var|string|number|bool|end|or|and|void|array)\b</string>
+			<string>\b(if|else|loop|var|string|number|bool|end|or|and|void|array|from|to|in)\b</string>
 			<key>name</key>
 			<string>keyword.control.untitled</string>
 		</dict>
