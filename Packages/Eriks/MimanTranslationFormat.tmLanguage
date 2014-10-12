@@ -16,7 +16,13 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>\b(foo)\b</string>
+			<string>\b(foob)\b</string>
+			<key>name</key>
+			<string>constant</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>HAH</string>
 			<key>name</key>
 			<string>constant</string>
 		</dict>

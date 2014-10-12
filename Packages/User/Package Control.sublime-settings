@@ -1,6 +1,8 @@
 {
 	"installed_packages":
 	[
+		"AAAPackageDev",
+		"Elm Language Support",
 		"Laravel Color Scheme",
 		"lispindent",
 		"OCaml",
