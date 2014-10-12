@@ -1,6 +1,7 @@
 {
   "cmd": ["cabal run"],  // append lib:myPackage or myexecutable here to only build certain cabal targets
   "shell": true,
+  "working_dir": "$project_path",
   "file_regex": "^(\\S*?):(\\d+):(\\d+):$",  // this matches the output of ghc
     "variants": [
         {   
