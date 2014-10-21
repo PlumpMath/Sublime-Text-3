@@ -4,8 +4,9 @@
 		"/Users/erik/.cabal/bin",
 		"/Applications/ghc-7.8.2.app/Contents/bin/ghc"
 	],
-	"color_scheme": "Packages/Laravel Color Scheme/Larapaste.tmTheme",
-	"font_size": 16,
+	"color_scheme": "Packages/ColorSublime-Themes/Strict.tmTheme",
+	"font_face": "Menlo",
+	"font_size": 18,
 	"ignored_packages":
 	[
 		"Vintage"
