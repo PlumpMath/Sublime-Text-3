@@ -50,7 +50,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff7e79</string>
+				<string>#ff6e69</string>
 			</dict>
 		</dict>
 		<dict>
@@ -98,7 +98,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff7e79</string>
+				<string>#ff6e69</string>
 			</dict>
 		</dict>
 		<dict>
@@ -134,6 +134,7 @@
 				<string>#ce3e30</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Invalid – Illegal</string>
@@ -147,19 +148,7 @@
 				<string>#111111</string>
 			</dict>
 		</dict>
-		<dict>
-			<key>name</key>
-			<string>Superclass</string>
-			<key>scope</key>
-			<string>entity.other.inherited-class</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
-				<key>foreground</key>
-				<string>#ff3300</string>
-			</dict>
-		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>String interpolation</string>
@@ -197,146 +186,7 @@
 				<string>#3a5276</string>
 			</dict>
 		</dict>
-		<dict>
-			<key>name</key>
-			<string>entity.name.section</string>
-			<key>scope</key>
-			<string>entity.name.section</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#111111</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>OCaml variant</string>
-			<key>scope</key>
-			<string>keyword.type.variant</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#272f3e</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>OCaml operator</string>
-			<key>scope</key>
-			<string>source.ocaml keyword.operator.symbol</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#111111</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>OCaml infix operator</string>
-			<key>scope</key>
-			<string>source.ocaml keyword.operator.symbol.infix</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#3a67ae</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>OCaml prefix operator</string>
-			<key>scope</key>
-			<string>source.ocaml keyword.operator.symbol.prefix</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#3a67ae</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>OCaml f-p infix operator</string>
-			<key>scope</key>
-			<string>source.ocaml keyword.operator.symbol.infix.floating-point</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>underline</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>OCaml f-p prefix operator</string>
-			<key>scope</key>
-			<string>source.ocaml keyword.operator.symbol.prefix.floating-point</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>underline</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>OCaml f-p constant</string>
-			<key>scope</key>
-			<string>source.ocaml constant.numeric.floating-point</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>underline</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>LaTeX environment</string>
-			<key>scope</key>
-			<string>text.tex.latex meta.function.environment</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#11111108</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>LaTeX environment (nested)</string>
-			<key>scope</key>
-			<string>text.tex.latex meta.function.environment meta.function.environment</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#2c3c7708</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Latex support</string>
-			<key>scope</key>
-			<string>text.tex.latex support.function</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#b59100</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>PList unquoted string</string>
-			<key>scope</key>
-			<string>source.plist string.unquoted, source.plist keyword.operator</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#111111</string>
-			</dict>
-		</dict>
+		
 	</array>
 	<key>uuid</key>
 	<string>A2C6BAA7-90D0-4147-BBF5-96B0CD92D109</string>
