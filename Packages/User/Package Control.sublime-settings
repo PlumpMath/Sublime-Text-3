@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"AAAPackageDev",
+		"dired",
 		"Elm Language Support",
 		"Enhanced Clojure",
 		"Git",
@@ -12,6 +13,7 @@
 		"Rust",
 		"SublimeHaskell",
 		"SublimeREPL",
-		"Terminal"
+		"Terminal",
+		"TOML"
 	]
 }
