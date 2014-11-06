@@ -4,6 +4,7 @@
     { "keys": ["super+shift+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
 
     { "keys": ["super+r"], "command": "build" },
+    { "keys": ["super+shift+o"], "command": "dired" },
 
     // Move to end of next line, uses a little script called run_multiple_commands.py (in Sublime's User dir)
     { "keys": ["super+enter"], "command": "run_multiple_commands", "args": {
