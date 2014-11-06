@@ -1,0 +1,7 @@
+{
+    // Bookmarked paths
+    "bookmarks": [
+        {"name": "Home", "path": {"#multiconf#": [{"os:linux": "~"}, {"os:osx": "~"}]}},
+        {"name": "Root", "path": {"#multiconf#": [{"os:linux": "/"}, {"os:osx": "/"}]}},
+    ],
+}
