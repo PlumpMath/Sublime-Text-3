@@ -1,7 +1,6 @@
 {
 	"installed_packages":
 	[
-		"Color Highlighter",
 		"dired",
 		"Elm Language Support",
 		"FuzzyFileNav",

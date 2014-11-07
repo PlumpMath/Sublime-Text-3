@@ -8,5 +8,5 @@
 	"auto_run_tests": false,
     "enable_auto_check": true,
 	"enable_auto_lint": true,	
-    "inspect_modules": false,
+    "inspect_modules": true,
 }

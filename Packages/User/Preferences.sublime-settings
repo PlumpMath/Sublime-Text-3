@@ -6,9 +6,9 @@
 		"~/Projects/racer/bin",
 		"~/Documents/Rust/racer/bin"
 	],
-	"color_scheme": "Packages/Laravel Color Scheme/Larapaste.tmTheme",
+	"color_scheme": "Packages/Eriks/Striptease.tmTheme",
 	"font_face": "Menlo",
-	"font_size": 17,
+	"font_size": 19,
 	"ignored_packages":
 	[
 		"Vintage"
