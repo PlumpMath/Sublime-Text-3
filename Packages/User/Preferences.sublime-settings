@@ -4,7 +4,8 @@
 		"~/bin",
 		"~/.cabal/bin",
 		"~/Projects/racer/bin",
-		"~/Documents/Rust/racer/bin"
+		"~/Documents/Rust/racer/bin",
+		"/Applications/ghc-7.8.3.app/Contents/bin",
 	],
 	"color_scheme": "Packages/Eriks/Striptease.tmTheme",
 	"font_face": "Menlo",
