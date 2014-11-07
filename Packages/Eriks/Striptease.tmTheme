@@ -80,7 +80,7 @@
 				<key>background</key>
 				<string></string>
 				<key>fontStyle</key>
-				<string> bold</string>
+				<string>bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -94,6 +94,21 @@
 				<string>#EE9933</string>
 			</dict>
 		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Storage</string>
+			<key>scope</key>
+			<string>support.type.prelude.haskell</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EE9933</string>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>String</string>
@@ -118,6 +133,34 @@
 				<string>#3399EE</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Support</string>
+			<key>scope</key>
+			<string>support.function.prelude.haskell</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000</string>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Support</string>
+			<key>scope</key>
+			<string>constant.language.empty-list.haskell</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
