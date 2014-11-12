@@ -7,6 +7,6 @@
     "enable_auto_build": false,
 	"auto_run_tests": false,
     "enable_auto_check": true,
-	"enable_auto_lint": true,	
+	"enable_auto_lint": true,
     "inspect_modules": true,
 }
