@@ -10,7 +10,6 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Eriks/StripteaseThree.tmTheme",
-	"theme": "Orchis Dark.sublime-theme",
 	"font_face": "Hasklig",
 	"font_size": 17,
 	"ignored_packages":
@@ -21,6 +20,7 @@
 	"line_padding_top": 1,
 	"show_full_path": true,
 	"tab_size": 4,
+	"theme": "Orchis Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }
