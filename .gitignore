@@ -1,9 +1,12 @@
 /Cache
 /Index
 /Local
-*.cache
-/Packages/SublimeHaskell
 /Backup
-Packages/User/Package Control.last-run
+/Packages/SublimeHaskell
 
+*.log
+*.sublime_session
+*.cache
+
+Packages/User/Package Control.last-run
 Packages/User/.SublimeREPLHistory/haskell.db

@@ -7,9 +7,13 @@
 		"~/Documents/Rust/racer/bin",
 		"/Applications/ghc-7.8.3.app/Contents/bin"
 	],
-	"color_scheme": "Packages/Eriks/Striptease.tmTheme",
-	"font_face": "Menlo",
-	"font_size": 19,
+	"color_scheme": "Packages/Eriks/StripteaseThree.tmTheme",
+	"font_face": "Hasklig",
+	"font_size": 17,
+	"caret_style": "phase",
+	"line_padding_bottom": 1,
+ 	"line_padding_top": 1,
+ 	"bold_folder_labels": true,
 	"ignored_packages":
 	[
 		"Vintage"

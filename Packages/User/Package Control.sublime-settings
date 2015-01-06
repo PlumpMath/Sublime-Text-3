@@ -1,15 +1,22 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
-		"dired",
 		"Elm Language Support",
 		"Enhanced Clojure",
 		"FuzzyFileNav",
 		"Git",
 		"Laravel Color Scheme",
 		"lispindent",
-		"Markdown Preview",
 		"OCaml",
+		"Package Control",
 		"Rust",
 		"RustAutoComplete",
 		"SublimeHaskell",
