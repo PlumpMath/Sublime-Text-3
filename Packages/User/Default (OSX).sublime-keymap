@@ -17,16 +17,7 @@
     },
 
     // Haskell
-    { "keys": ["ctrl+t"], "command": "run_multiple_commands", "args": {
-        "commands":
-        [
-            {"command": "move_to", "args": {"to": "bol", "extend": false}},
-            {"command": "sublime_haskell_insert_type"},
-            {"command": "move_to", "args": {"to": "eol", "extend": false}},
-        ]
-        }
-    },
-
+    { "keys": ["ctrl+t"], "context": [ {"key" : "is_haskell_source" } ], "command": "sublime_haskell_insert_type" },
     { "keys": ["ctrl+super+t"], "context": [ {"key" : "is_haskell_source" } ], "command": "sublime_haskell_show_type" },
     { "keys": ["ctrl+d"], "context": [ {"key" : "is_haskell_source" } ], "command": "sublime_haskell_symbol_info" },
 
