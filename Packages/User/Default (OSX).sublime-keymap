@@ -21,6 +21,8 @@
     { "keys": ["ctrl+super+t"], "context": [ {"key" : "is_haskell_source" } ], "command": "sublime_haskell_show_type" },
     { "keys": ["ctrl+d"], "context": [ {"key" : "is_haskell_source" } ], "command": "sublime_haskell_symbol_info" },
     { "keys": ["ctrl+l"], "context": [ {"key" : "is_haskell_source" } ], "command": "sublime_haskell_ghc_mod_check_and_lint" },
+    { "keys": ["ctrl+r"], "context": [ {"key" : "is_haskell_source" } ], "command": "sublime_haskell_run" },
+    { "keys": ["ctrl+b"], "context": [ {"key" : "is_haskell_source" } ], "command": "sublime_haskell_build" },
 
     // Sublime REPL
     // { "keys": ["ctrl+e"], "command": "repl_transfer_current", "args": {"scope": "selection"}},
