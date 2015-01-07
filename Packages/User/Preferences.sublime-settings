@@ -19,7 +19,7 @@
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"show_full_path": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Orchis Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false,
