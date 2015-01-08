@@ -5,7 +5,9 @@
 		"~/.cabal/bin",
 		"~/Projects/racer/bin",
 		"~/Documents/Rust/racer/bin",
-		"/Applications/ghc-7.8.3.app/Contents/bin"
+		"/Applications/ghc-7.8.3.app/Contents/bin",
+		"/Users/erik/bin/",
+		"/Users/erik/.cabal/bin",
 	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
@@ -20,7 +22,7 @@
 	"line_padding_top": 1,
 	"show_full_path": true,
 	"tab_size": 2,
-	"theme": "Orchis Dark.sublime-theme",
+	//"theme": "Orchis Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false,
 }
