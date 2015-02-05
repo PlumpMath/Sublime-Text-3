@@ -3,10 +3,10 @@
 	[
 		"/Users/erik/.cabal/bin"
 	],
-    "enable_hdevtools": false,
-    "enable_auto_build": false,
+  "enable_hdevtools": false,
+  "enable_auto_build": false,
 	"auto_run_tests": false,
-    "enable_auto_check": false,
+  "enable_auto_check": false,
 	"enable_auto_lint": false,
-    "inspect_modules": true,
+  "inspect_modules": false,
 }
