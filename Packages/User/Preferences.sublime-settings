@@ -9,19 +9,19 @@
 		"/Users/erik/bin/",
 		"/Users/erik/.cabal/bin"
 	],
+	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Eriks/StripteaseThree.tmTheme",
 	"font_face": "Hasklig",
 	"font_size": 17,
-	"overlay_scroll_bars": "enabled",
-	"always_show_minimap_viewport": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"overlay_scroll_bars": "enabled",
 	"show_full_path": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
