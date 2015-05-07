@@ -14,7 +14,7 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/Eriks/StripteaseThree.tmTheme",
 	"font_face": "Hasklig",
-	"font_size": 17,
+	"font_size": 19,
 	"ignored_packages":
 	[
 		"Swift",
@@ -24,7 +24,7 @@
 	"line_padding_top": 1,
 	"overlay_scroll_bars": "enabled",
 	"show_full_path": true,
-	"tab_size": 2,
+	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }
