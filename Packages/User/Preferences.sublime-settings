@@ -17,8 +17,8 @@
 	"font_size": 19,
 	"ignored_packages":
 	[
-		"Swift",
-		"Vintage"
+		"Vintage",
+		"Swift"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
