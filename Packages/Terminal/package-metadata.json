@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 {"dependencies": [], "platforms": ["*"], "url": "http://wbond.net/sublime_packages/terminal", "version": "1.6.0", "sublime_text": "*", "description": "Launch terminals from the current file or the root project folder"}
+=======
+{"dependencies": [], "platforms": ["*"], "url": "http://wbond.net/sublime_packages/terminal", "version": "1.8.2", "sublime_text": "*", "description": "Launch terminals from the current file or the root project folder"}
+>>>>>>> Stashed changes
